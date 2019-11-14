@@ -4,7 +4,7 @@ import os
 import re
 import sys
 from logger import logger
-from workflow import Workflow, web
+from workflow import Workflow
 import model
 from model import Detail, Api, ApiTaobao
 
