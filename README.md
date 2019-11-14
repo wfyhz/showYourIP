@@ -1,7 +1,7 @@
 # show your ip
 
 ###安装过程
-1. 下载 [showYourIP](./IP.alfredworkflow)
+1. 下载 [showYourIP](https://github.com/whitefly/showYourIP/raw/master/IP.alfredworkflow)
 2. 双击文件,直接导入alfred4中(未兼容Alfred3,只支持Alfred4)
 
  
